@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://raquelcardosofisio.github.io/sitemap.xml
